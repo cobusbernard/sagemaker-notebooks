@@ -1,1 +1,2 @@
 # sagemaker-notebooks
+Sample notebooks
